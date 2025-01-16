@@ -1,0 +1,12 @@
+a{
+    color: blue;
+}
+a:hover{
+    color: blueviolet;
+}
+ul>li{
+    color: cornflowerblue;
+}
+h1+p{
+    background-color:azure
+}
